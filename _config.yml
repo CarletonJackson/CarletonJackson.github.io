@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            3rd Option Media
+title: 3rd Option Media   
 locale:           en_US
 logo:             # filename of a logo image that has been placed into your images directory
 # If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
@@ -9,7 +9,7 @@ logo:             # filename of a logo image that has been placed into your imag
 owner:
   name: Carleton Jackson
   avatar: bio-photo.jpg
-  bio: "3rd Option Media is an information service protal for independent visual storytelling."
+  bio: "Carleton is a media librarian serving the independent filmmaker and audio/visual storytelling communities.."
   email: #wildbunch1@umd.edu
   twitter: #username
   facebook: #username
